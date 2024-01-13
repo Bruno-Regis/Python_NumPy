@@ -1,13 +1,10 @@
 # Curso de Numpy - Alura
 ## Tecnologias
 <div> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"
-<div> <img src="https://img.shields.io/badge/NumPy-%23F2F2F2?style=for-the-badge&logo=Numpy&logoColor=blue
-"
-<div> <img src="https://img.shields.io/badge/Jupyter-%23CCCCCC?style=for-the-badge&logo=Jupyter&logoColor=orange">
-<img src="https://img.shields.io/badge/LateX-%236f6961?style=for-the-badge&logo=LateX&logoColor=%2357b3ac
-">
-<img src="https://img.shields.io/badge/Git-%23F2F2F2?style=for-the-badge&logo=Git&logoColor=orange">
-
+<div> <img src="https://img.shields.io/badge/NumPy-%23F2F2F2?style=for-the-badge&logo=Numpy&logoColor=blue"
+<div> <img src="https://img.shields.io/badge/Jupyter-%23CCCCCC?style=for-the-badge&logo=Jupyter&logoColor=orange"
+<div> <img src="https://img.shields.io/badge/LateX-%236f6961?style=for-the-badge&logo=LateX&logoColor=%2357b3ac"
+<div> <img src="https://img.shields.io/badge/Git-%23F2F2F2?style=for-the-badge&logo=Git&logoColor=orange"
 
 ## 1. Introdução
 <div style="text-align: justify">
