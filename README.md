@@ -1,13 +1,11 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 # Curso de Numpy - Alura
 ## Tecnologias
 <div> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"
 <div> <img src="https://img.shields.io/badge/NumPy-%23F2F2F2?style=for-the-badge&logo=Numpy&logoColor=blue"
 <div> <img src="https://img.shields.io/badge/Jupyter-%23CCCCCC?style=for-the-badge&logo=Jupyter&logoColor=orange"
 <div> <img src="https://img.shields.io/badge/LateX-%236f6961?style=for-the-badge&logo=LateX&logoColor=%2357b3ac"
-<div> <img src="https://img.shields.io/badge/Git-%23F2F2F2?style=for-the-badge&logo=Git&logoColor=orange"
+<div> <img src="https://img.shields.io/badge/Git-%23F2F2F2?style=for-the-badge&logo=Git&logoColor=orange">
 
 ## 1. Introdução
 <div style="text-align: justify">
@@ -43,29 +41,17 @@ Criei um loop inteligente com for capaz de detectar e me indicar valores do tipo
 ## 4. Regressão linear
 <div style="text-align: justify">
 A regressão linear é um método estatístico utilizado para modelar a relação entre uma variável dependente entre uma ou mais variáveis independentes. Isto é, o método tem como objetivo encontrar uma reta ajustada que melhor se encaixe aos dados observados. A equação da reta é representada por: <br> 
-$$ Y = aX + b$$
-Onde:<br>
-$Y$ = Variável dependente;<br>
-$X$ = Variável independente;<br>
-$a$ = Inclinação da reta;<br>
-$b$ = Interceptação no eixo Y;<br>
+
+  ![image](https://github.com/Bruno-Regis/Python_NumPy/assets/149000097/b7244e36-6150-41ff-be4a-caaa54bc1fae)
+
     
 ### 4.1 Cálculo do Coeficiente Angular da Reta (a): <br>
-$$ \hat{a} = \frac{N\cdot\sum_{}^{}\left( X_{i}\cdot Y_{i} \right) - \sum_{_{}}^{}\left( X_{i} \right) \cdot \sum_{_{}}^{}\left( Y_{i} \right)} {N\cdot \sum_{_{}}^{}\left( X^{2}_{i} \right)-\left( \sum_{_{}}^{}\left( X_{i} \right) \right)^{2}} $$
-Onde:<br>
-$\hat{a}$ = Coeficiente angular da reta;<br>
-$N$ = Número de elementos; <br>
-$X$ = Valores do eixo das abcissas;<br>
-$Y$ = Valores do eixo das ordenadas.<br>
-</div>
+![image](https://github.com/Bruno-Regis/Python_NumPy/assets/149000097/fff26386-aa20-4d2b-b744-ff67ee00742f)
+
 
 ### 4.2 Cálculo do Coeficiente Linear da Reta (b): <br>
-$$ \hat{b} = \bar{Y_{i}} - \hat{a}\cdot \bar{X_{i}} $$
-Onde:<br>
-$\hat{b}$ = Coeficiente linear da reta;<br>
-$\hat{a}$ = Coeficiente angular da reta;<br>
-$\bar{X_{i}}$ = Média aritimética dos valores de X;<br>
-$\bar{Y_{i}}$ = Média aritimética dos valores de Y.
+![image](https://github.com/Bruno-Regis/Python_NumPy/assets/149000097/85da982f-fd4f-40e2-85c7-dcd859079764)
+
 
 ### 4.3 Números aleatórios
 <div style="text-align: justify">
